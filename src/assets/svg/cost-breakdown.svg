@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" fill="none" stroke="currentColor" stroke-width="1.6" role="img" aria-label="商业成本结构拆解图">
+  <text x="40" y="40" font-family="sans-serif" font-size="14" fill="currentColor" stroke="none">总成本 = Σ（材料 + 制造 + 物流 + 研发摊销 + 渠道 + 时间成本）</text>
+  <rect x="40" y="70" width="680" height="56" rx="4"/>
+  <path d="M250 70v56M430 70v56M560 70v56M640 70v56"/>
+  <g font-family="sans-serif" font-size="12" text-anchor="middle" fill="currentColor" stroke="none">
+    <text x="145" y="104">材料 30%</text><text x="340" y="104">制造 26%</text><text x="495" y="104">物流 19%</text><text x="600" y="104">研发 12%</text><text x="700" y="104">其他 13%</text>
+  </g>
+  <path d="M145 126v34M340 126v34M495 126v34M600 126v34M700 126v34"/>
+  <g font-family="sans-serif" font-size="11.5" text-anchor="middle" fill="currentColor" stroke="none" opacity=".8">
+    <text x="145" y="164">原子层面</text><text x="340" y="164">工艺约束</text><text x="495" y="164">空间与距离</text><text x="600" y="164">规模摊销</text><text x="700" y="164">组织成本</text>
+  </g>
+  <text x="380" y="214" font-family="sans-serif" font-size="13" text-anchor="middle" fill="currentColor" stroke="none">逐项追问：这一项由什么物理 / 制度约束决定？能否改变？</text>
+  <text x="380" y="242" font-family="sans-serif" font-size="11.5" text-anchor="middle" fill="currentColor" stroke="none" opacity=".65">百分比为教学示意，不代表任何具体企业真实成本</text>
+</svg>

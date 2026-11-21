@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="第一性原理标志">
+  <rect width="64" height="64" rx="12" fill="#202A32"/>
+  <g fill="none" stroke="#E8EEF1" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 10 52 22v20L32 54 12 42V22L32 10Z"/>
+    <path d="M12 22l20 12 20-12M32 34v20"/>
+    <circle cx="32" cy="22" r="4.5" fill="#A68B65" stroke="none"/>
+  </g>
+</svg>

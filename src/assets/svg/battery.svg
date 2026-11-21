@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 280" fill="none" stroke="currentColor" stroke-width="1.6" role="img" aria-label="锂离子电池结构示意图">
+  <rect x="60" y="50" width="300" height="180" rx="8"/>
+  <rect x="82" y="72" width="46" height="136" rx="3"/>
+  <rect x="150" y="72" width="46" height="136" rx="3"/>
+  <rect x="218" y="72" width="46" height="136" rx="3"/>
+  <rect x="286" y="72" width="46" height="136" rx="3"/>
+  <path d="M128 72h22M196 72h22M264 72h22M128 208h22M196 208h22M264 208h22"/>
+  <rect x="372" y="50" width="26" height="180" rx="3"/>
+  <text x="385" y="252" font-family="sans-serif" font-size="12" text-anchor="middle" fill="currentColor" stroke="none">隔膜</text>
+  <g font-family="sans-serif" font-size="12" fill="currentColor" stroke="none">
+    <text x="90" y="252">正极</text><text x="160" y="252">电解液</text><text x="228" y="252">负极</text><text x="296" y="252">集流体</text>
+    <text x="420" y="90">能量密度 ≈ 电压 × 比容量</text>
+    <text x="420" y="118">受材料体系与热力学约束</text>
+    <text x="420" y="160">循环寿命 ↔ 材料稳定性</text>
+    <text x="420" y="188">成本 ↔ 材料丰度与工艺</text>
+  </g>
+  <path d="M400 84h-24M400 154h-14" stroke-dasharray="4 4"/>
+</svg>

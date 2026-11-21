@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" fill="none" stroke="currentColor" role="img" aria-label="抽象几何与轨道结构插画">
+  <g stroke-width="1" opacity=".28">
+    <path d="M0 80h800M0 160h800M0 240h800M0 320h800M0 400h800M0 480h800M0 560h800"/>
+    <path d="M80 0v620M160 0v620M240 0v620M320 0v620M400 0v620M480 0v620M560 0v620M640 0v620M720 0v620"/>
+  </g>
+  <g stroke-width="1.2" opacity=".5">
+    <circle cx="430" cy="310" r="260"/>
+    <circle cx="430" cy="310" r="205"/>
+    <circle cx="430" cy="310" r="150" stroke-dasharray="5 7"/>
+    <ellipse cx="430" cy="310" rx="260" ry="98" transform="rotate(-24 430 310)"/>
+    <ellipse cx="430" cy="310" rx="205" ry="160" transform="rotate(32 430 310)" opacity=".7"/>
+  </g>
+  <g stroke-width="1.4" opacity=".85">
+    <path d="M430 90 620 310 430 530 240 310 430 90Z"/>
+    <path d="M240 310h380M430 90v440M310 200l240 220M550 200 310 420"/>
+    <path d="M430 90 620 310 430 530 240 310 430 90Z" transform="scale(.62) translate(263 190)" opacity=".55"/>
+  </g>
+  <g fill="currentColor" stroke="none">
+    <circle cx="430" cy="310" r="6" opacity=".95"/>
+    <circle cx="620" cy="310" r="4" opacity=".8"/>
+    <circle cx="240" cy="310" r="4" opacity=".8"/>
+    <circle cx="430" cy="90" r="4" opacity=".8"/>
+    <circle cx="430" cy="530" r="4" opacity=".8"/>
+    <circle cx="545" cy="168" r="3" opacity=".6"/>
+    <circle cx="300" cy="452" r="3" opacity=".6"/>
+  </g>
+  <g stroke-width="1.2" opacity=".55">
+    <path d="M60 520h120v60H60zM60 550h120M90 520v60"/>
+    <path d="M690 60h70v70h-70zM725 60v70M690 95h70"/>
+  </g>
+</svg>

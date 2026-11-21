@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" fill="none" stroke="currentColor" stroke-width="1.6" role="img" aria-label="系统思考结构图">
+  <rect x="40" y="60" width="120" height="60" rx="6"/>
+  <rect x="300" y="40" width="120" height="60" rx="6"/>
+  <rect x="560" y="60" width="120" height="60" rx="6"/>
+  <rect x="300" y="190" width="120" height="60" rx="6"/>
+  <g font-family="sans-serif" font-size="13" text-anchor="middle" fill="currentColor" stroke="none">
+    <text x="100" y="96">输入</text><text x="360" y="76">存量 S</text><text x="620" y="96">输出</text><text x="360" y="226">反馈</text>
+  </g>
+  <path d="M160 90h140M420 76l140 14M620 120v22H420M360 190v-50M300 164H180l-80-44"/>
+  <path d="m292 85 10 5-9 6M552 87l10 5-9 6M415 138l-9 6 10 4M355 145l10 5-10 5M108 115l-9-6 10-4"/>
+  <path d="M170 210c60 56 320 56 380 0" stroke-dasharray="5 4"/>
+  <g font-family="sans-serif" font-size="12" text-anchor="middle" fill="currentColor" stroke="none" opacity=".7">
+    <text x="360" y="262">增强回路 R　/　调节回路 B　/　延迟</text>
+    <text x="360" y="26">系统的行为来自结构，而不只是个别事件</text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" fill="none" stroke="currentColor" stroke-width="1.6" role="img" aria-label="逻辑树示意图">
+  <rect x="280" y="16" width="140" height="42" rx="5"/>
+  <text x="350" y="43" font-family="sans-serif" font-size="13.5" text-anchor="middle" fill="currentColor" stroke="none">核心问题</text>
+  <path d="M350 58v30M140 88h420M140 88v20M350 88v20M560 88v20"/>
+  <rect x="70" y="108" width="140" height="42" rx="5"/><rect x="280" y="108" width="140" height="42" rx="5"/><rect x="490" y="108" width="140" height="42" rx="5"/>
+  <g font-family="sans-serif" font-size="12.5" text-anchor="middle" fill="currentColor" stroke="none">
+    <text x="140" y="135">原因 A</text><text x="350" y="135">原因 B</text><text x="560" y="135">原因 C</text>
+  </g>
+  <path d="M140 150v28M350 150v28M560 150v28M100 178h80M310 178h80M520 178h80M100 178v18M180 178v18M310 178v18M390 178v18M520 178v18M600 178v18"/>
+  <g font-family="sans-serif" font-size="11" text-anchor="middle" fill="currentColor" stroke="none" opacity=".8">
+    <text x="140" y="212">A1</text><text x="180" y="212">A2</text><text x="350" y="212">B1</text><text x="390" y="212">B2</text><text x="560" y="212">C1</text><text x="600" y="212">C2</text>
+  </g>
+  <text x="350" y="254" font-family="sans-serif" font-size="12.5" text-anchor="middle" fill="currentColor" stroke="none">逐层分解，直到每一片叶子都可以被验证</text>
+</svg>

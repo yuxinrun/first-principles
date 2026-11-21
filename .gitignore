@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+.playwright-cli/
+*.tsbuildinfo
+*.local
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+npm-debug.log*

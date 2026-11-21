@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#F7F6F2" />
+    <title>第一性原理 · First Principles</title>
+    <meta name="description" content="回到事物本身，从本质出发，重新理解世界。系统研究第一性原理思维方式的中文知识库：哲学、科学、数学、工程、商业与经典案例。" />
+    <meta name="keywords" content="第一性原理, 第一原理, 批判性思维, 科学方法, 亚里士多德, 公理, 系统思考, 决策" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="第一性原理" />
+    <meta property="og:title" content="第一性原理 · First Principles" />
+    <meta property="og:description" content="Think Deeper, Understand Better. 回到事物本身，从本质出发，重新理解世界。" />
+    <meta property="og:url" content="https://yuxinrun.github.io/first-principles/" />
+    <meta property="og:image" content="https://yuxinrun.github.io/first-principles/og-cover.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href="https://yuxinrun.github.io/first-principles/" />
+    <link rel="icon" type="image/svg+xml" href="/first-principles/favicon.svg" />
+    <link rel="alternate icon" href="/first-principles/favicon.svg" />
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('fp-theme')
+          var theme = saved === 'dark' || saved === 'light' ? saved : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+          document.documentElement.dataset.theme = theme
+        } catch (e) {
+          document.documentElement.dataset.theme = 'light'
+        }
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

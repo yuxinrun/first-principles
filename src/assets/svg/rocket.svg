@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" fill="none" stroke="currentColor" stroke-width="1.6" role="img" aria-label="火箭质量与推力约束示意图">
+  <g stroke-linejoin="round">
+    <path d="M250 40c18 20 28 46 28 78v78h-56v-78c0-32 10-58 28-78Z"/>
+    <path d="M250 40v-14M222 196l-26 34 26-10M278 196l26 34-26-10"/>
+    <path d="M236 196v20l14 34 14-34v-20"/>
+    <path d="M250 250v26M238 276h24"/>
+  </g>
+  <g font-family="sans-serif" font-size="12" fill="currentColor" stroke="none">
+    <text x="300" y="80">推力 T</text><text x="300" y="102">必须 &gt; 重力 M·g</text>
+    <text x="300" y="150">结构质量 M</text><text x="300" y="172">燃料质量占比决定</text><text x="300" y="194">有效载荷上限</text>
+    <text x="60" y="120">齐奥尔科夫斯基关系</text><text x="60" y="142">Δv = Isp·g₀·ln(M₀/Mf)</text>
+  </g>
+  <path d="M300 70h-40M300 140h-30M300 182h-24" stroke-dasharray="4 4"/>
+  <path d="M60 156h150" stroke-dasharray="4 4"/>
+  <g opacity=".65">
+    <path d="M190 260h140M190 254v12M330 254v12"/>
+    <text x="260" y="288" font-family="sans-serif" font-size="11.5" text-anchor="middle" fill="currentColor" stroke="none">可重复使用改变的是每次发射的成本结构</text>
+  </g>
+</svg>

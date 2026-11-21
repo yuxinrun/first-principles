@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" fill="none" stroke="currentColor" stroke-width="1.6" role="img" aria-label="问题拆解结构图">
+  <rect x="270" y="18" width="160" height="50" rx="6"/>
+  <text x="350" y="48" font-family="sans-serif" font-size="15" text-anchor="middle" fill="currentColor" stroke="none">复杂问题</text>
+  <path d="M350 68v36M150 104h400M150 104v22M350 104v22M550 104v22"/>
+  <g>
+    <rect x="80" y="126" width="140" height="46" rx="5"/><rect x="280" y="126" width="140" height="46" rx="5"/><rect x="480" y="126" width="140" height="46" rx="5"/>
+    <text x="150" y="155" font-family="sans-serif" font-size="13" text-anchor="middle" fill="currentColor" stroke="none">已知事实</text>
+    <text x="350" y="155" font-family="sans-serif" font-size="13" text-anchor="middle" fill="currentColor" stroke="none">隐含假设</text>
+    <text x="550" y="155" font-family="sans-serif" font-size="13" text-anchor="middle" fill="currentColor" stroke="none">约束条件</text>
+  </g>
+  <path d="M150 172v34M350 172v34M550 172v34M110 206h280M390 206h200M110 206v20M390 206v20"/>
+  <g font-family="sans-serif" font-size="12" text-anchor="middle" fill="currentColor" stroke="none">
+    <text x="150" y="244">可验证</text><text x="350" y="244">待审查</text><text x="550" y="244">不可改 / 可设计</text>
+  </g>
+  <path d="M350 258v22" stroke-dasharray="4 4"/>
+  <text x="350" y="294" font-family="sans-serif" font-size="13" text-anchor="middle" fill="currentColor" stroke="none">从最小事实集合重新推导方案</text>
+</svg>
